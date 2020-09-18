@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646734731156",
+    "firebase_url": "https://mily-videoapp.firebaseio.com",
+    "project_id": "mily-videoapp",
+    "storage_bucket": "mily-videoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646734731156:android:a9a3d0bb1262352617a181",
+        "android_client_info": {
+          "package_name": "com.MILY.videocallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646734731156-egbukdabm1adoe6q1vo39mu059amcv09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIJ3NTnAHenxw1ZMTw0ighNmsBWzVhu9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646734731156-egbukdabm1adoe6q1vo39mu059amcv09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
